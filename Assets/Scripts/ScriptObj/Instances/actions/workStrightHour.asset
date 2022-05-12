@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7e3ceaf219e43dd95947d7def0cfcc, type: 3}
+  m_Name: workStrightHour
+  m_EditorClassIdentifier: 
+  actName: 
+  parametrs:
+  - parametr: {fileID: 11400000, guid: 97f3f9da9ccec473c98346443bff7e4c, type: 2}
+    delta: -30
+  - parametr: {fileID: 11400000, guid: 6bc89a434ac6345c585a07b2e53ad888, type: 2}
+    delta: -20
+  - parametr: {fileID: 11400000, guid: 6e05ed8619b044fa3bd65f1314b3dc75, type: 2}
+    delta: -5
+  - parametr: {fileID: 11400000, guid: f042115155a2143bc8f2c806f8e18e20, type: 2}
+    delta: 3
+  - parametr: {fileID: 11400000, guid: f9852f7f2c7e5435a90d933ef4b3db09, type: 2}
+    delta: -2
+  - parametr: {fileID: 11400000, guid: e8619f03689e64bd4bcea43fccfb27c4, type: 2}
+    delta: -1
+  _actionType: 2
+  _timeExecute: 5
